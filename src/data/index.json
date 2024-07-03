@@ -1,0 +1,52 @@
+{
+        "skills":
+    [   {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front End",
+            "description": "I am proficient in front-end development using HTML and CSS. Additionally, I have hands-on experience with popular frameworks like React.js and Bootstrap. My skills include creating responsive and interactive web interfaces. I enjoy leveraging these tools to build user-friendly and visually appealing websites. Continuous learning and refining my craft are key aspects of my approach."
+        },
+        {
+            "id": 2,
+            "src": "./img/feather-pen-1.png",
+            "title": "Back End",
+            "description": "I utilize Java, Python, and C# for backend development, deploying applications on the GlassFish server, which supports Java EE and facilitates backend service integration with the user interface. Dynamic web pages are created using JavaServer Pages (JSP), combining Java code with HTML. SQL manages our database interactions, while HTML, CSS, and JavaScript ensure a robust and cohesive web application framework. Additionally, we use Pandas and Matplotlib for data analysis and visualization in Python, and Firebase as a database solution for real-time data handling."
+        },
+        {
+            "id": 3,
+            "src": "./img/tag-1.png",
+            "title": "VR Developer",
+            "description": "I specialize in developing immersive VR experiences using Unity3D, where I employ XR controller locomotion for realistic interactions within virtual environments. With Unity3D, I create dynamic scenes that enable users to seamlessly navigate and interact with objects, enhancing their overall immersion. My focus is on integrating XR technologies to deliver compelling VR experiences that combine intuitive controls with immersive storytelling and interactive elements."
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-2.png",
+            "title": "Multimedia Designer",
+            "description": "I specialize in Multimedia Design using Figma and Photoshop, focusing on user-centric interfaces. Additionally, I create eye-catching posters, logos, and graphics with meticulous attention to detail. My skills extend to 3D modeling for realistic visuals and motion graphics for dynamic animations. I thrive on thinking creatively to deliver innovative design solutions. My passion lies in combining technical expertise with visual storytelling to craft compelling digital experiences."
+        }
+    ],
+        "portfolio":[
+        {
+            "id": 1,
+            "src": "./img/Trash Attack.png",
+            "title": "Trash Attack",
+            "description": "During a hackathon, our team developed a waste management initiative aimed at promoting environmental cleanliness within schools and communities. We created a web application using HTML, CSS, and JavaScript, leveraging the Bootstrap framework for a responsive design. Our platform facilitates the collection and recycling of waste from schools and dumping sites, offering real-time updates and educational resources. By fostering collaboration and awareness, our project encourages sustainable practices and strengthens community engagement in maintaining a clean environment.",
+            "link":"View In Git Hub"
+        },
+        {
+            "id": 2,
+            "src": "./img/Robben Island VR.png",
+            "title": "Robben Virtual Tour",
+            "description": "I created a virtual tour of the Robben Island cell of Nelson Mandela and Govan Mbeki, utilizing 3D models created with Blender software. I then integrated these models into Unity3D to develop an immersive virtual tour experience. To enhance the realism and engagement of the tour, I included interactive elements such as a TV screen that plays videos depicting the struggles of Apartheid. This combination of detailed 3D modeling and multimedia content provides an educational and captivating exploration of this significant historical site.",
+            "link":"https://github.com/NyanisoTukani/Robben-Island-Virtual-Tour"
+        },
+        {
+            "id": 3,
+            "src": "./img/Ubuntu Connect.png",
+            "title": "Ubuntu Connect",
+            "description": "Our project aims to integrate healthcare services across the country by creating a platform that connects patients with a wide range of healthcare professionals. This includes doctors, hospitals, surgeons, optometrists, and dentists, allowing patients to book appointments with their preferred healthcare providers. By bringing together various medical professionals under one comprehensive website, patients can easily find and schedule appointments with specialists in their desired field, ensuring they receive the best possible care. This initiative strives to streamline the booking process, enhance accessibility to healthcare services, and ultimately improve patient outcomes nationwide.",
+            "link":"https://github.com/NyanisoTukani/Ubuntu-Connect-Webapp"
+        }
+    ]
+    
+}
