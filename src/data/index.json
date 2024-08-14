@@ -1,0 +1,52 @@
+{
+        "skills":
+    [   {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front End",
+            "description": "I am proficient in front-end development using HTML and CSS and JavaScript. Additionally, I have hands-on experience with popular frameworks like React.js for web and React Native for mobile apps. My skills include creating responsive and interactive web interfaces."
+        },
+        {
+            "id": 2,
+            "src": "./img/feather-pen-1.png",
+            "title": "Back End",
+            "description": "I utilize Java, Python, C# and PHP for backend development, utilising Java frameworks like spring boot so I can intergrate it with database using mySQL or using the servlets like Glassfish server or Tomcat so it can communicate with the front-end."
+        },
+        {
+            "id": 3,
+            "src": "./img/tag-1.png",
+            "title": "UI/UX",
+            "description": "I specialize in UI/UX design for web and mobile platforms, utilizing technologies like Figma and Photoshop. My expertise includes creating intuitive and visually appealing interfaces, ensuring a seamless user experience across devices."
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-2.png",
+            "title": "Graphics Design",
+            "description": "I specialize in graphic design, using Adobe Creative Cloud tools like Photoshop, Premiere Pro, and After Effects, along with Blender. My expertise includes creating visually compelling designs and dynamic motion graphics that enhance storytelling and brand presence."
+        }
+    ],
+        "portfolio":[
+        {
+            "id": 1,
+            "src": "./img/Trash Attack.png",
+            "title": "Trash Attack",
+            "description": "During a hackathon, our team developed a waste management initiative aimed at promoting environmental cleanliness within schools and communities. We created a web application using HTML, CSS, and JavaScript, leveraging the Bootstrap framework for a responsive design. Our platform facilitates the collection and recycling of waste from schools and dumping sites, offering real-time updates and educational resources. By fostering collaboration and awareness, our project encourages sustainable practices and strengthens community engagement in maintaining a clean environment.",
+            "link":"View In Git Hub"
+        },
+        {
+            "id": 2,
+            "src": "./img/theProfessorMultimedia.png",
+            "title": "TheProfessor Multimedia",
+            "description": "TheProfessor Multimedia website showcases our services and expertise. Built using the ReactJS framework, this web app delivers a seamless user experience. I integrated EmailJS for efficient communication, enabling users to easily send messages and inquiries. Whether you have questions or need assistance, our platform ensures prompt responses. The site reflects our commitment to quality in multimedia development. Explore our offerings and get in touch with TheProfessor Multimedia today.",
+            "link":"https://github.com/NyanisoTukani/TheProfessorMultimedia-Web-App"
+        },
+        {
+            "id": 3,
+            "src": "./img/Ubuntu Connect.png",
+            "title": "Ubuntu Connect",
+            "description": "Our project aims to integrate healthcare services across the country by creating a platform that connects patients with a wide range of healthcare professionals. This includes doctors, hospitals, surgeons, optometrists, and dentists, allowing patients to book appointments with their preferred healthcare providers. By bringing together various medical professionals under one comprehensive website, patients can easily find and schedule appointments with specialists in their desired field, ensuring they receive the best possible care. This initiative strives to streamline the booking process, enhance accessibility to healthcare services, and ultimately improve patient outcomes nationwide.",
+            "link":"https://github.com/NyanisoTukani/Ubuntu-Connect-Webapp"
+        }
+    ]
+    
+}
