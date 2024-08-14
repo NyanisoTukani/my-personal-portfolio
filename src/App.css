@@ -277,7 +277,7 @@ nav{
     justify-content: center;
     align-items: flex-start;
     gap: 42.6px;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .skills_section_card{

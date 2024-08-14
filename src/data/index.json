@@ -4,25 +4,25 @@
             "id": 1,
             "src": "./img/product-chain-1.png",
             "title": "Front End",
-            "description": "I am proficient in front-end development using HTML and CSS. Additionally, I have hands-on experience with popular frameworks like React.js and Bootstrap. My skills include creating responsive and interactive web interfaces. I enjoy leveraging these tools to build user-friendly and visually appealing websites. Continuous learning and refining my craft are key aspects of my approach."
+            "description": "I am proficient in front-end development using HTML and CSS and JavaScript. Additionally, I have hands-on experience with popular frameworks like React.js for web and React Native for mobile apps. My skills include creating responsive and interactive web interfaces."
         },
         {
             "id": 2,
             "src": "./img/feather-pen-1.png",
             "title": "Back End",
-            "description": "I utilize Java, Python, and C# for backend development, deploying applications on the GlassFish server, which supports Java EE and facilitates backend service integration with the user interface. Dynamic web pages are created using JavaServer Pages (JSP), combining Java code with HTML. SQL manages our database interactions, while HTML, CSS, and JavaScript ensure a robust and cohesive web application framework. Additionally, we use Pandas and Matplotlib for data analysis and visualization in Python, and Firebase as a database solution for real-time data handling."
+            "description": "I utilize Java, Python, C# and PHP for backend development, utilising Java frameworks like spring boot so I can intergrate it with database using mySQL or using the servlets like Glassfish server or Tomcat so it can communicate with the front-end."
         },
         {
             "id": 3,
             "src": "./img/tag-1.png",
-            "title": "VR Developer",
-            "description": "I specialize in developing immersive VR experiences using Unity3D, where I employ XR controller locomotion for realistic interactions within virtual environments. With Unity3D, I create dynamic scenes that enable users to seamlessly navigate and interact with objects, enhancing their overall immersion. My focus is on integrating XR technologies to deliver compelling VR experiences that combine intuitive controls with immersive storytelling and interactive elements."
+            "title": "UI/UX",
+            "description": "I specialize in UI/UX design for web and mobile platforms, utilizing technologies like Figma and Photoshop. My expertise includes creating intuitive and visually appealing interfaces, ensuring a seamless user experience across devices."
         },
         {
             "id": 4,
             "src": "./img/feather-pen-2.png",
-            "title": "Multimedia Designer",
-            "description": "I specialize in Multimedia Design using Figma and Photoshop, focusing on user-centric interfaces. Additionally, I create eye-catching posters, logos, and graphics with meticulous attention to detail. My skills extend to 3D modeling for realistic visuals and motion graphics for dynamic animations. I thrive on thinking creatively to deliver innovative design solutions. My passion lies in combining technical expertise with visual storytelling to craft compelling digital experiences."
+            "title": "Graphics Design",
+            "description": "I specialize in graphic design, using Adobe Creative Cloud tools like Photoshop, Premiere Pro, and After Effects, along with Blender. My expertise includes creating visually compelling designs and dynamic motion graphics that enhance storytelling and brand presence."
         }
     ],
         "portfolio":[
@@ -35,10 +35,10 @@
         },
         {
             "id": 2,
-            "src": "./img/Robben Island VR.png",
-            "title": "Robben Virtual Tour",
-            "description": "I created a virtual tour of the Robben Island cell of Nelson Mandela and Govan Mbeki, utilizing 3D models created with Blender software. I then integrated these models into Unity3D to develop an immersive virtual tour experience. To enhance the realism and engagement of the tour, I included interactive elements such as a TV screen that plays videos depicting the struggles of Apartheid. This combination of detailed 3D modeling and multimedia content provides an educational and captivating exploration of this significant historical site.",
-            "link":"https://github.com/NyanisoTukani/Robben-Island-Virtual-Tour"
+            "src": "./img/theProfessorMultimedia.png",
+            "title": "TheProfessor Multimedia",
+            "description": "TheProfessor Multimedia website showcases our services and expertise. Built using the ReactJS framework, this web app delivers a seamless user experience. I integrated EmailJS for efficient communication, enabling users to easily send messages and inquiries. Whether you have questions or need assistance, our platform ensures prompt responses. The site reflects our commitment to quality in multimedia development. Explore our offerings and get in touch with TheProfessor Multimedia today.",
+            "link":"https://github.com/NyanisoTukani/TheProfessorMultimedia-Web-App"
         },
         {
             "id": 3,

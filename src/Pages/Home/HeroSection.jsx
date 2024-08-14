@@ -11,9 +11,10 @@ export default function HeroSection(){
       
        </h1>
        <p className="hero-section-description">
-       Final year Diploma in Multimedia Computing student with a strong focus on software development and multimedia
-       design. Proficient in creating dynamic software solutions and engaging multimedia content. Dedicated to integrating technical
-       expertise with creative design skills for innovative project development.
+       I am an aspiring software developer with a passion for technology and innovation. 
+       My skills include web and mobile development, UI/UX design, and multimedia computing. 
+       I thrive on solving complex problems and creating user-friendly digital solutions. 
+       I'm eager to grow and contribute to impactful projects.
        </p>
        <div>
        <button className="btn btn-resume">
